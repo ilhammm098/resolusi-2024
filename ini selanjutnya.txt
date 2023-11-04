@@ -1,2 +1,4 @@
 terus belajar tentang teknologi
+ * harus jadi developer
+ * harus jadi engineer
 belajar bahasa phyton
